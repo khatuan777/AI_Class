@@ -1,0 +1,6 @@
+{
+    "cSpell.words": [
+        "alao"
+    ]
+    "terminal.integrated.shellArgs.windows": ["-NoExit", "/c", "chcp.com 65001"],
+}
